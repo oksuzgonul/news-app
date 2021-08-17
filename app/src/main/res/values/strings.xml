@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="settings_title">Settings</string>
+    <string name="not_connected_to_internet">Not connected to the internet.</string>
+    <string name="no_articles">No articles.</string>
+
+    <string name="tools_text_section">Politics</string>
+    <string name="tools_text_title">Random News Title up to two lines that can be very very l
+        ong but should be accommodated up to two lines and should break at two</string>
+    <string name="tools_text_date">Published on Wed 20, Jun 2020</string>
+    <string name="tools_text_author">by San Dunn</string>
+
+    <string name="button_text">read</string>
+
+    <string name="settings_order_by_title">Order by</string>
+    <string name="settings_order_by_key">order-by</string>
+    <string name="settings_order_by_default">@string/settings_order_by_value_relevance</string>
+
+    <string name="settings_order_by_label_newest">Newest to oldest</string>
+    <string name="settings_order_by_label_oldest">Oldest to newest</string>
+    <string name="settings_order_by_label_relevance">Most relevant first</string>
+
+    <string name="settings_order_by_value_newest">newest</string>
+    <string name="settings_order_by_value_oldest">oldest</string>
+    <string name="settings_order_by_value_relevance">relevance</string>
+
+    <string name="settings_section_title">Section</string>
+    <string name="settings_section_key">section</string>
+    <string name="settings_section_default">@string/settings_section_value_politics</string>
+
+    <string name="settings_section_label_politics">Politics</string>
+    <string name="settings_section_label_business">Business</string>
+    <string name="settings_section_label_world">World News</string>
+    <string name="settings_section_label_football">Football</string>
+
+    <string name="settings_section_value_politics">politics</string>
+    <string name="settings_section_value_business">business</string>
+    <string name="settings_section_value_world">world</string>
+    <string name="settings_section_value_football">football</string>
+
+    <string name="settings_query_title">Search with query</string>
+    <string name="settings_query_key">q</string>
+    <string name="settings_query_default">economy</string>
+
+</resources>

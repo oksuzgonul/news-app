@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_order_by_labels">
+        <item>@string/settings_order_by_label_newest</item>
+        <item>@string/settings_order_by_label_oldest</item>
+        <item>@string/settings_order_by_label_relevance</item>
+    </string-array>
+
+    <string-array name="settings_order_by_values">
+        <item>@string/settings_order_by_value_newest</item>
+        <item>@string/settings_order_by_value_oldest</item>
+        <item>@string/settings_order_by_value_relevance</item>
+    </string-array>
+
+    <string-array name="settings_section_labels">
+        <item>@string/settings_section_label_politics</item>
+        <item>@string/settings_section_label_business</item>
+        <item>@string/settings_section_label_world</item>
+        <item>@string/settings_section_label_football</item>
+    </string-array>
+
+    <string-array name="settings_section_values">
+        <item>@string/settings_section_value_politics</item>
+        <item>@string/settings_section_value_business</item>
+        <item>@string/settings_section_value_world</item>
+        <item>@string/settings_section_value_football</item>
+    </string-array>
+</resources>

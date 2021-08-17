@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/article_list_item">
+    <TextView
+        android:id="@+id/section_name"
+        tools:text="@string/tools_text_section"
+        style="@style/article_list_section"/>
+    <TextView
+        android:id="@+id/title"
+        tools:text="@string/tools_text_title"
+        style="@style/article_list_title"/>
+    <TextView
+        android:id="@+id/date_published"
+        tools:text="@string/tools_text_date"
+        style="@style/article_list_date"/>
+    <TextView
+        android:id="@+id/author"
+        tools:text="@string/tools_text_author"
+        style="@style/article_list_author"/>
+    <Button
+        android:id="@+id/read_button"
+        style="@style/article_list_button"/>
+</RelativeLayout>
